@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bartleyn
 - 👀 I’m interested in social networks, algorithmic audits, graph theory and partially observed systems
 - 💞️ I’m looking to collaborate on games research, social networks, auditing
-- 📫 How to reach me nbartley (at) usc.edu
+- 📫 How to reach me ntbartley (at) gmail.com
 
 <!---
 bartleyn/bartleyn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
